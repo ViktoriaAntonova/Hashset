@@ -20,7 +20,7 @@ namespace zad2
             }
             else
             {
-                Console.WriteLine("Nqma go");
+                Console.WriteLine("Nqma go1");
             }
         }
     }
